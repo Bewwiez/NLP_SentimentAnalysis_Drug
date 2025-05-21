@@ -44,6 +44,10 @@ By changing benefitsReview to other review columns in the data base will change 
 Load in Data<br>
 Run data cleaning lines such as replacing n/a's and the creation of sentiment column <br>
 Run the functions and training argument cells <br>
+
+##Note
+The errors the notebook is displaying is because I refreshed my kernel by accident for my cross-validation loop and then interrupted the kernel.  
+
 Run the cross validation for loop <br>
 It will generate metrics for each epoch and split <br>
 Load the trained model and use it on the test data set<br>
